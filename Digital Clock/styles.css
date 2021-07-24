@@ -1,0 +1,15 @@
+body{
+	background-color: black;
+}
+
+.clock{
+	color : #b1d1e3;
+	font-size : 60px;
+	font-family: 'Zen Tokyo Zoo', cursive;
+	letter-spacing : 7px;
+	
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translatex(-50%) translatey(-50%);
+}
